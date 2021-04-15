@@ -1,0 +1,10 @@
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\bin\Debug\LoginDiseño.exe.config
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\bin\Debug\LoginDiseño.exe
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\bin\Debug\LoginDiseño.pdb
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\obj\Debug\LoginDiseño.Properties.Resources.resources
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\obj\Debug\LoginDiseño.csproj.GenerateResource.cache
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\obj\Debug\LoginDiseño.csproj.CoreCompileInputs.cache
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\obj\Debug\LoginDiseño.exe
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\obj\Debug\LoginDiseño.pdb
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\obj\Debug\LoginDiseño.csprojAssemblyReference.cache
+C:\Users\Coppel\OneDrive\Documents\David Nava-Proyectos de programacion\Otros proyectos\General\LoginDiseño\LoginDiseño\obj\Debug\LoginDiseño.Form1.resources
